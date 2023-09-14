@@ -1,9 +1,8 @@
 # 💫 About Me:
-<descripcion xml:space="preserve">
-Hello, my name is Mateo, and I am a Full Stack Web developer. 
-I hold an Associate Degree in programming, which I completed in two years at the National Technological University. 
+
+Hello, my name is Mateo, and I am a Full Stack Web developer.  <!-- Dejo 2 espacios despues del punto para hacer el salto de linea -->
+I hold an Associate Degree in programming, which I completed in two years at the National Technological University.  
 I am actively seeking professional experiences and job opportunities to further my career development and learning journey.
-</descripcion>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mateo.daran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-daran-683ba6216/) 
