@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, my name is Mateo, and I am a Full Stack Web developer.  <!-- Dejo 2 espacios despues del punto para hacer el salto de linea -->
+Hello, my name is Mateo, and I am a Full Stack Web developer.  
 I hold an Associate Degree in programming, which I completed in two years at the National Technological University.  
 I am actively seeking professional experiences and job opportunities to further my career development and learning journey.
 
